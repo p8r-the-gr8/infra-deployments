@@ -18,7 +18,7 @@ metadata:
 spec:
   upgradeStrategy: Default
   targetNamespaces:
-    - costmanagement-metrics-operator
+    - costmanagement-metrics-operator-base
 ---
 # Subscription for costmanagement-metrics-operator
 apiVersion: operators.coreos.com/v1alpha1
