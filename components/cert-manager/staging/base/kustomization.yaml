@@ -3,4 +3,4 @@ kind: Kustomization
 resources:
 - operator.yaml
 
-namespace: cert-manager-operator
+namespace: cert-manager-operator-test
